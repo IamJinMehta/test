@@ -15,3 +15,13 @@
 - Implement Restful API of "Meeting" in the both of server and client sides (40min)<br/>
   Focus Code Style and Code Optimization. <br/>
   Reference other functions.
+
+## Changes
+
+- Auth bug fix to auth.js removing bearer from the start of the token.
+- Rest API Immplementation for Meeting CRUD.
+- Meeting CRUD api integration on client side.
+
+## Possible Addition
+
+- Contact and Lead CRUD API Implementation and API Integration for Meeting Functionality.
